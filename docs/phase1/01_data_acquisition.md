@@ -41,7 +41,7 @@
 
 ## Initial Observations
 - Dataset contains all three classes needed for classification
-- Redshift column present (key feature per PPT)
+- Redshift column present 
 - Five photometric bands available (u,g,r,i,z)
 - Some columns have string representations of numbers (need conversion)
 

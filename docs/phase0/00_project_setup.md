@@ -10,6 +10,7 @@
 
 ## Folder Structure Created
 
+```
 C:\CosmicID
 │
 ├── 📁 app/ # Streamlit dashboard (future)
@@ -23,28 +24,29 @@ C:\CosmicID
 ├── 📁 docs/ # Project documentation
 ├── requirements.txt # All dependencies
 └── README.md # Project overview (future)
+```
 
 ---
 
 ## Dependencies Installed
 
-### Core data science
-pandas==2.2.3
-numpy==2.2.4
-matplotlib==3.10.1
-seaborn==0.13.2
+### Core Data Science
+- `pandas==2.2.3`
+- `numpy==2.2.4`
+- `matplotlib==3.10.1`
+- `seaborn==0.13.2`
 
-### Machine learning
-scikit-learn==1.6.1
-xgboost==2.1.4
-tensorflow==2.20.0
+### Machine Learning
+- `scikit-learn==1.6.1`
+- `xgboost==2.1.4`
+- `tensorflow==2.20.0`
 
 ### Dashboard
-streamlit==1.43.2
-plotly==6.0.1
+- `streamlit==1.43.2`
+- `plotly==6.0.1`
 
 ### Utilities
-joblib==1.4.2
+- `joblib==1.4.2`
 
 
 ## Installation Commands

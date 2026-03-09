@@ -73,27 +73,27 @@
 ## Summary Statistics
 
 1. REDSHIFT RANGES BY CLASS:
-   STAR: min=-0.794, max=-0.783, mean=-0.789
-   GALAXY: min=-0.802, max=1.934, mean=-0.212
-   QSO: min=-0.788, max=8.779, mean=1.563
+  - STAR: min=-0.794, max=-0.783, mean=-0.789
+  - GALAXY: min=-0.802, max=1.934, mean=-0.212
+  - QSO: min=-0.788, max=8.779, mean=1.563
 
 2. MAGNITUDE RANGES (showing overlap):
-   UV_filter: -4.92 - 4.74
-   green_filter: -4.98 - 5.38
-   red_filter: -5.30 - 5.34
-   near_IR_filter: -5.47 - 7.42
-   IR_filter: -5.19 - 5.67
+  - UV_filter: -4.92 - 4.74
+  - green_filter: -4.98 - 5.38
+  - red_filter: -5.30 - 5.34
+  - near_IR_filter: -5.47 - 7.42
+  - IR_filter: -5.19 - 5.67
 
 3. COLOR INDICES SUMMARY:
-   u-g: mean=0.000, std=1.000
-   g-r: mean=-0.000, std=1.000
-   r-i: mean=0.000, std=1.000
-   i-z: mean=0.000, std=1.000
+  - u-g: mean=0.000, std=1.000
+  - g-r: mean=-0.000, std=1.000
+  - r-i: mean=0.000, std=1.000
+  - i-z: mean=0.000, std=1.000
 
 4. CLASS DISTRIBUTION:
-   GALAXY: 41604 (59.4%)
-   STAR: 15115 (21.6%)
-   QSO: 13272 (19.0%)
+  - GALAXY: 41604 (59.4%)
+  - STAR: 15115 (21.6%)
+  - QSO: 13272 (19.0%)
 
 
 ## Key Takeaways for Modeling
