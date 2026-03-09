@@ -1,15 +1,15 @@
 # Phase 1: Data Acquisition - SDSS Dataset
 
 ## Data Source
-- **Dataset**: Stellar Classification Dataset (SDSS17)
-- **Source**: Kaggle (fedesoriano)
-- **URL**: https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17
+- **Dataset**: Stellar Classification Dataset
+- **Source**: Kaggle (Sonali Jindal)
+- **URL**: https://www.kaggle.com/datasets/jsonali2003/stellar-classification-dataset
 
 ## Dataset Description
 - **Size**: 100,000 observations
-- **Source survey**: Sloan Digital Sky Survey (SDSS) Data Release 17
+- **Source survey**: Sloan Digital Sky Survey (SDSS) Data 
 - **File format**: CSV
-- **File size**: ~13 MB
+- **File size**: ~13.3 MB
 - **File name**: `sdss_stellar_classification.csv`
 
 ## Columns Description
