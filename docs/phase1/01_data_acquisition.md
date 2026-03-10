@@ -7,7 +7,7 @@
 
 ## Dataset Description
 - **Size**: 100,000 observations
-- **Source survey**: Sloan Digital Sky Survey (SDSS) Data 
+- **Source survey**: Sloan Digital Sky Survey (SDSS DR18) Data Release 18
 - **File format**: CSV
 - **File size**: ~13.3 MB
 - **File name**: `sdss_stellar_classification.csv`

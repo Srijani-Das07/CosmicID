@@ -9,7 +9,8 @@ scikit-learn==1.6.1
 xgboost==2.1.4
 
 # Deep learning
-tensorflow==2.15.0
+tensorflow==2.18.0
+keras==3.7.0
 
 # Dashboard
 streamlit==1.43.2
