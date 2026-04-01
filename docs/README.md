@@ -11,8 +11,9 @@ This folder contains detailed documentation for each phase of the CosmicID proje
 | **Phase 2** | Data Loading & Initial Exploration | ✅ Complete | [View Doc](phase2/02_data_loading_and_initial_exploration.md) |
 | **Phase 3** | Data Preprocessing | ✅ Complete | [View Doc](phase3/03_data_preprocessing.md) |
 | **Phase 4** | Exploratory Data Analysis | ✅ Complete | [View Doc](phase4/04_exploratory_data_analysis.md) |
-| **Phase 5** | Baseline Models | ✅ Complete | [View Doc](phase5/05_baseline_models.md) |
-| **Phase 6** | Advanced Models | ⏳ Pending | - |
+| **Phase 5.1** | Random Forest (Baseline Model) | ✅ Complete | [View Doc](phase5/05_random_forest_baseline_model.md) |
+| **Phase 5.2** | XGBoost (Baseline Model) | ✅ Complete | [View Doc](phase5/05_xgboost_baseline_model.md) |
+| **Phase 6** | Prism (Hybrid Model) | ✅ Complete | [View Doc](phase6/06_prism_hybrid_model.md) |
 | **Phase 7** | Dashboard Development | ⏳ Pending | - |
 | **Phase 8** | Deployment | ⏳ Pending | - |
 | **Phase 9** | Documentation | ⏳ Pending | - |

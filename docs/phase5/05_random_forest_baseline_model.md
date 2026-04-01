@@ -1,7 +1,7 @@
-# Phase 5: Baseline Models - Random Forest
+# Phase 5.1: Baseline Models - Random Forest
 
 ## Notebook
-- **File**: `notebooks/04_baseline_models.ipynb`
+- **File**: `notebooks/04_random_forest_baseline_model.ipynb`
 - **Kernel**: `venv` (Python 3.13.7)
 
 ## Model Configuration

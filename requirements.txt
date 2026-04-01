@@ -1,16 +1,15 @@
 # Core data science
 pandas==2.2.3
 numpy==2.2.4
-matplotlib==3.10.1
+matplotlib==3.9.2
 seaborn==0.13.2
 
 # Machine learning
 scikit-learn==1.6.1
 xgboost==2.1.4
 
-# Deep learning
-tensorflow==2.18.0
-keras==3.7.0
+lightgbm
+
 
 # Dashboard
 streamlit==1.43.2
