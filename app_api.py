@@ -9,6 +9,7 @@ import numpy as np
 import joblib
 import json
 import os
+from flask import send_file
 
 app = Flask(__name__)
 CORS(app)  # Allow requests from HTML dashboard
@@ -228,6 +229,17 @@ def predict():
             'error': str(e)
         }), 500
 
+@app.route('/')
+def home():
+    return send_file('index.html')
+
+@app.route('/results.html')
+def results():
+    return send_file('results.html')
+
+@app.route('/live_prediction.html')
+def live_prediction():
+    return send_file('live_prediction.html')
 
 @app.route('/model_performance', methods=['GET'])
 def model_performance():
