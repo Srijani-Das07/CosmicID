@@ -14,9 +14,9 @@ This folder contains detailed documentation for each phase of the CosmicID proje
 | **Phase 5.1** | Random Forest (Baseline Model) | ✅ Complete | [View Doc](phase5/05_random_forest_baseline_model.md) |
 | **Phase 5.2** | XGBoost (Baseline Model) | ✅ Complete | [View Doc](phase5/05_xgboost_baseline_model.md) |
 | **Phase 6** | Prism (Hybrid Model) | ✅ Complete | [View Doc](phase6/06_prism_hybrid_model.md) |
-| **Phase 7** | Dashboard Development | ⏳ Pending | - |
-| **Phase 8** | Deployment | ⏳ Pending | - |
-| **Phase 9** | Documentation | ⏳ Pending | - |
+| **Phase 7** | Dashboard Development | ✅ Complete | [View Doc](phase7/07_dashboard_development.md) |
+| **Phase 8** | Deployment | ✅ Complete | [View Doc](phase8/08_deployment.md) |
+| **Phase 9** | Documentation | ✅ Complete | - |
 
 ## How to Use This Documentation
 - Each phase document contains detailed steps, code snippets, and decisions made
