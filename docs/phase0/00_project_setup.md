@@ -8,12 +8,12 @@
 - **Virtual environment**: `venv` (located in project root)
 - **Project root**: `C:\CosmicID\`
 
-## Folder Structure Created
+## Initial Folder Structure Created (May go through changes as the project moves ahead)
 
 ```
 C:\CosmicID
 │
-├── 📁 app/ # Streamlit dashboard (future)
+├── 📁 app/
 ├── 📁 data/
 │ ├── 📁 raw/ # Original SDSS data
 │ └── 📁 processed/ # Cleaned data for modeling
